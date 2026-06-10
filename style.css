@@ -1,0 +1,640 @@
+    body {
+        background-image: url("imagens/backgrounds/backgroundsekiro.jpeg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+        margin: 0%;
+        height: 100%;
+    }
+
+    .body2 {
+        background-image: url("imagens/backgrounds/backgroundsekiro2.jpeg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+        margin: 0%;
+        height: 100%;
+    }
+
+    .body3 {
+        background-image: url("imagens/backgrounds/backgroundsekiro3.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+        margin: 0%;
+        height: 100%;
+    }
+
+    .body4 {
+        background-image: url("imagens/backgrounds/backgroundsekiro4.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+        margin: 0%;
+        height: 100%;
+    }
+
+    .body5{
+        background-image: url("imagens/backgrounds/backgroundsekiro5.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+        margin: 0%;
+        height: 100%;
+    }
+
+    header {
+        background-image: url("imagens/papelbackground.jpeg");
+        color:black;
+        position: fixed;
+        top: 0;
+        z-index: 100;
+        text-align:center;
+        width:100%;
+        height: 12%;
+        border-bottom: 4px solid orangered;
+    }
+
+    .botaoBackground {
+        background-color: rgba(214, 173, 167, 0.603);
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 10.5%;
+        height: 20%;
+        width: 7%;
+        margin: 0.5%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        text-align: center;
+        font-size: 90%;
+        transition-duration: 0.4s;
+    }
+
+    .botaoBackground:hover{
+        background-color: rgb(255, 255, 255);
+        color:black;
+        box-shadow: 0 7px 16px 0;
+        cursor:pointer;
+    }
+
+    .imagemLogo {
+       height: 100%;
+    }
+
+    .CaixaDeTexto { 
+        background-image: url("imagens/papelbackground.jpeg");
+        background-size: 100%;
+        padding: 1%;
+        height: 50%;
+        width: 95%;
+        border-radius: 2%;
+        border: 3px solid #C3541F;
+        margin-top: 1%;
+        margin-left: 1%;
+        text-align: center;
+    }
+
+    .CaixaDeTextoLongo { 
+        background-image: url("imagens/papelbackgroundextendido.jpeg");
+        background-size: cover;
+        padding: 1%;
+        height:23%;
+        width:92%;
+        border-radius: 3%;
+        border: 3px solid #C3541F;
+        margin-top: 1%;
+        margin-left: 1%;
+        text-align: center;
+        background-repeat: no-repeat;
+    }
+
+    .CaixaDeTextoVertical {
+        background-image: url("imagens/papelbackgroundvertical.jpeg");
+        background-size: 100%;
+        padding: 1%;
+        height: 70%;
+        width: 25%;
+        border-radius: 2%;
+        border: 3px solid #C3541F;
+        margin-top: 9%;
+        margin-left: 1%;
+        text-align: center;
+    }
+
+    .CaixaDeTextoLongoFerramentas { 
+        background-image: url("imagens/papelbackgroundextendido.jpeg");
+        background-size: cover;
+        padding: 1%;
+        height:23%;
+        width:96%;
+        border-radius: 3%;
+        border: 3px solid #C3541F;
+        margin-top: 15px;
+        margin-left: 15px;
+        text-align: center;
+        background-repeat: no-repeat;
+    }
+
+    .proteseDescricao {
+        position: absolute;
+        top:-5%;
+        font-size: 110%;
+    }
+
+    .decoracaoDragaoDireita {
+        position:absolute;
+        right: 17%;
+        rotate:90deg;
+        top: 0.5%;
+        height: 4.5%;
+    }
+
+    .decoracaoDragaoEsquerda {
+        position:absolute;
+        left: 18%;
+        rotate:-90deg;
+        transform: scaleX(-1);
+        top: 0.5%;
+        height: 4.5%;
+    }
+
+    .FerramentasDescricao {
+        margin: 0;
+        height: 100%;
+        width: 100%;
+        position: relative;
+    }
+
+    .FerramentaImagem {
+        position:absolute;
+        left: 2%;
+        top: -7%;
+        height: 90%;
+        border: 3px solid rgb(0, 0, 0);
+        border-radius: 5%;
+        background-color: rgba(0, 0, 0, 0.671);
+    }
+
+    .ferramentaTitulo {
+        position: absolute;
+        left: 14%;
+        top: -25%;
+        font-size: 200%;
+    }
+
+    .ferramentaTexto {
+        position: absolute;
+        left: 14%;
+        top: 2%;
+        text-align: justify;
+        width: 30%;
+    }
+
+    .ferramentaMelhorias {
+        position: absolute;
+        left: 45%;
+        top: -13%;
+        text-align: justify;
+        font-size: 120%;
+        width: 30%;
+    }
+
+    .ferramentaItem {
+        position: absolute;
+        top:-25%;
+        right: 26.7%;
+        font-size: 120%;
+    }
+
+    .ferramentaItemImagem {
+        position:absolute;
+        right: 27%;
+        top: -5%;
+        height: 80%;
+        border: 3px dashed rgb(255, 0, 0);
+        border-radius: 5%;
+        background-color: rgba(189, 19, 19, 0.438);
+    }
+
+    .ferramentaItemTitulo {
+        position: relative;
+        top:80%;
+        left: 58%;
+        width: 20%;
+        font-size: 170%;
+        text-align: center;
+    }
+
+    .ferramentaComoObter {
+        position:absolute;
+        right: 3%;
+        top: -20%;
+        font-size: 130%;
+        width: 30%;
+        text-align: center;
+        width: 20%;
+    }
+
+    .ninjutsuDescricaoGeral {
+        margin-top: -2%;
+        font-size: 130%;
+    }
+
+    .ninjutsuImagem {
+        height: 30%;
+        margin-top: -5%;
+    }
+
+    .ninjutsuImagem2 {
+        height: 16%;
+    }
+
+    .ninjutsuTitulo {
+        font-size: 180%;
+    }
+    
+    .ninjutsuTexto {
+        height: 43%;
+        display: flex;
+    }
+
+    .ninjutsuTexto1 {
+        height: 100%;
+        width: 50%;
+    }
+
+    .ninjutsuTexto2 {
+        height: 100%;
+        width: 50%;
+    }
+
+    .ninjutsuOqueFaz {
+        font-size: 95%;
+        width: 90%;
+        margin: 5%;
+        text-align: justify;
+    }
+
+    .ninjutsuComoObter {
+        font-size: 95%;
+        width: 90%;
+        margin: 5%;
+        text-align: justify;
+    }
+
+    .espacoDeBotoesArvore {
+        height: 20%;
+        padding-left: 9%;
+    }
+
+    .espacoDeInformacaoArvore {
+        height: 80%;
+    }
+
+    .espacoDeInformacaoSkill {
+        width: 45%;
+        height: 100%;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    .caixaDeInformacaoArvore {
+        background-image: url("imagens/arvoreBackground.png");
+        background-size: 100%;
+        padding: 1%;
+        height: 80%;
+        width: 90%;
+        border-radius: 2%;
+        border: 3px solid black;
+        margin-top: 9%;
+        margin: 4%;
+        text-align: center;
+    }
+
+    .botoesArvore {
+        width: 50%;
+        height: 100%;
+        display:flex;
+        gap: 2%;
+    }
+
+    .botaoArvore {
+        background-image: url(imagens/arvoreBackground.png);
+        background-position-x:center;
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 5%;
+        height: 90%;
+        width: 35%;
+        text-align: center;
+        font-size: 90%;
+        margin-top: 3%;
+        transition-duration: 0.4s;
+    }
+
+    .botaoArvore:hover {
+        background-color: rgb(233, 63, 41);
+        color:black;
+        box-shadow: 0 7px 16px 0;
+        cursor:pointer;
+    }
+
+    .botaoArvore.pressionado {
+        background-color: rgb(251, 255, 13);
+        background-image: none;
+        border: 2px solid orangered;
+        border-radius: 5%;
+        text-align: center;
+        font-size: 90%;
+        transition-duration: 0.4s;
+    }
+
+    .botoesSkills {
+        height: 100%;
+        width: 100%;
+    }
+
+    .botaoSkills {
+        height: 8.5%;
+        width: 4%;
+        background-color: transparent;
+        border: none;
+        border-radius: 50%;
+        text-align: center;
+        font-size: 90%;
+        transition-duration: 0.4s;
+    }
+
+    .botaoSkills:hover{
+        background-color: rgba(0, 0, 0, 0.329);
+        cursor:pointer;
+    }
+
+    .CaixaDeTextoSkills {
+        background-image: url("imagens/arvoreBackground2.png");
+        background-size: 100%;
+        padding: 1%;
+        height: 90%;
+        width: 95%;
+        border-radius: 2%;
+        border: 3px solid black;
+        margin-top: 2%;
+        text-align: center;
+    }
+
+    .descricaoSkills {
+        text-align: center;
+        margin-left: 15%;
+    }
+
+    .imagemTextoLogo {
+        height: 80%;
+    }
+
+    .botoesBoss {
+        width: 50%;
+        height: 20%;
+        display:flex;
+        gap: 2%;
+    }
+
+    .espacoDeInformacao {
+        height: 100%;
+        width: 50%;
+    }
+
+    .espacoDeBotoes {
+        height: 100%;
+        width: 50%;
+        margin: 1%;
+        margin-left: 5%;
+    }
+
+    .caixaDeInformacao {
+        background-image: url("imagens/papelbackgroundvertical.jpeg");
+        background-size: 100%;
+        padding: 1%;
+        height: 80%;
+        width: 90%;
+        border-radius: 2%;
+        border: 3px solid #C3541F;
+        margin-top: 9%;
+        margin: 4%;
+        text-align: center;
+    }
+
+    .informacoesBoss {
+        height: 100%;
+        width: 100%;
+        z-index: 1;
+    }
+
+    .explicacaoBoss {
+        text-align: center;
+        font-size: 160%;
+    }
+
+    .imagemBossFundo {
+        opacity: 0.2;
+        position:absolute;
+        top:4.5%;
+        left:55%; 
+        height:82%; 
+        width:43%;
+        z-index: 0;
+    }
+
+    .botaoBoss {
+        background-image: url(imagens/bossBackground.png);
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 5%;
+        height: 100%;
+        width: 35%;
+        text-align: center;
+        font-size: 90%;
+        transition-duration: 0.4s;
+    }
+
+    .botaoBoss:hover {
+        background-color: rgb(233, 63, 41);
+        color:black;
+        box-shadow: 0 7px 16px 0;
+        cursor:pointer;
+    }
+
+    .imagemBossLogo {
+        height: 80%;
+    }
+
+    .botaoBoss.pressionado {
+        background-color: rgb(255, 30, 0);
+        background-image: none;
+        border: 2px solid orangered;
+        border-radius: 5%;
+        text-align: center;
+        font-size: 90%;
+        transition-duration: 0.4s;
+    }
+
+    .botao {
+         background-color: rgba(197, 53, 34, 0.603);
+         border: 2px solid orangered;
+         border-radius: 5%;
+         height: 100%;
+         width: 100%;
+         text-align: center;
+         font-size: 90%;
+         transition-duration: 0.4s;
+    }
+
+    .imagemBotao{
+        height: 60%;
+        width: 60%;
+    }
+
+    .botao:hover{
+        background-color: rgb(233, 63, 41);
+        color:black;
+        box-shadow: 0 7px 16px 0;
+        cursor:pointer;
+    }
+
+    .nomeBotoes {
+        color:black;
+        font-family: 'sekiro-font';
+    }
+
+    p {
+        color:black;
+        font-family: 'sekiro-font';
+    }
+
+    b {
+        gap: 0 0;
+        font-family: 'sekiro-font2';
+    }
+
+    h2 {
+        gap: 0 0;
+        font-family: 'sekiro-font2';
+    }
+
+    .SeparacaoDeCaixasScroll{
+        scroll-behavior:smooth;
+        top: 12%;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position:absolute;
+    }
+
+    .SeparacaoDeCaixasNinjutsu {
+        top: 12%;
+        left: 0%;
+        right: 0%;
+        bottom: 0%;
+        position: absolute;
+        margin: 0;
+        display: flex;
+        position: fixed;
+        gap: 5%;
+        padding-left: 3.5%;
+    }
+    
+    .SeparacaoDeCaixas1{
+        top: 12%;
+        left: 0%;
+        right: 0%;
+        bottom: 0%;
+        position: absolute;
+        margin: 0;
+        display: flex;
+        position: fixed;
+    }
+
+    .SeparacaoDeCaixas2{
+        display:block;
+        width:100%;
+    }
+
+    .SeparacaoDeCaixasBotoes{
+        flex-wrap: wrap;
+        justify-content:space-around;
+        height: 100%;
+        width: 100%;
+        display:flex;
+    }
+
+    .SeparacaoDeCaixas3 {
+        display: block;
+        width: 20%;
+        margin-left: 0.5%;
+    }
+
+    footer {
+        background-image: url("imagens/papelbackground.jpeg");
+        border-top: 4px solid orangered;
+        color:black;
+        position: fixed;
+        bottom: 0;
+        text-align:center;
+        width:100%;
+        }
+
+    a {
+        color: black;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 20px;
+        transition: color 0.2s ease;
+        }
+
+    a:hover{
+        color: blue;
+    }
+
+    @media (max-width: 1366px) {
+    h2 {
+        font-size: 80%;
+    }
+
+    body{
+        font-size: 80%;
+    }
+
+    b {
+        font-size: 80%;
+    }
+
+    a {
+        flex-direction: column;
+        gap: 8px; 
+    }
+
+    .botao {
+        gap: 2%;
+        height: 100%;
+    }
+
+    .proteseDescricao {
+        margin-top: 0%;
+        font-size: 85%;
+    }
+
+    .explicacaoBoss {
+        font-size: 130%;
+    }
+
+    .informacoesBoss {
+        font-size:90%;
+    }
+
+
+}
+
+    @font-face {
+            font-family: 'sekiro-font';
+            src: url(sekiro-font.ttf) format(truetype);
+            font-weight: normal;
+            font-style: normal;
+        }

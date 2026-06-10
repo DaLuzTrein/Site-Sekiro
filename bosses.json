@@ -1,0 +1,191 @@
+{
+  "1": {
+    "nome": "Gyoubu Oniwa",
+    "imagem": "imagens/bosses/gyoubuDesenho.png",
+    "video": "https://www.youtube.com/watch?v=z5OxzUDPtoY",
+    "historia": "Gyoubu fazia parte de uma gangue de bandidos infames da região de Ashina, após seu grupo inteiro ter sido derrotado em uma batalha contra Isshin, Isshin contratou o jovem Gyoubu para ser o leal protetor dos portões do castelo de Ashina pois viu potencial nele, seu apelido de 'O Demonio' vem da forma que ele age e de seu temperamento explosivo.",
+    "luta": "Gyoubu utiliza uma lança para desferir ataques de cima de seu cavalo enquanto corre ao redor de Sekiro, seus ataque são lentos e deixam uma boa janela para atacar, além de não varias muito seus combos, ele tem 2 barras de vida na luta e não varia de uma fase para outra.",
+    "fraquezas": "Seu cavalo fica assustado com a prótese de bombinhas shinobi e se ele pegar distância é possível usar o gancho para alcança-lo.",
+    "recompensas": "Desbloqueia o portão para o Castelo de Ashina e ganha o Barril Mecânico para melhorar suas ferramentas de prótese no Escultor."
+    },
+
+  "2": {
+    "nome": "Senhora Borboleta",
+    "imagem": "imagens/bosses/borboletaDesenho.png",
+    "video": "https://www.youtube.com/watch?v=Uf_O9eWwJnU",
+    "historia": "A senhora borboleta costumava ser a protetora da propriedade hirata, até trair a família do sangue do dragão para ajudar Coruja, senhora borboleta conhece lobo desde criança pois coruja a pediu para ensinar lobo a ser um shinobi.",
+    "luta": "A luta contra senhora borboleta tem 2 fases, uma delas sendo secreta, na primeira fase senhora borboleta luta no chão com ataques com suas kunais de perto e de longe, as vezes pulando em suas linhas para atacar de cima, quando você executa ela na primeira fase revela que era tudo uma ilusão e ela vai para sua segunda fase secreta, nessa fase é praticamente igual mas as vezes ela pode subir em suas linhas e invocar ilusões para atacar no lugar dela.",
+    "fraquezas": "Na primeira fase sua maior fraqueza é ataques seguidos sem dar tempo para ela reagir e quando ela estiver no ar ataca-la com sua prótese de shuriken, para suas ilusões da segunda fase Snap Seeds são os itens mais fortes para usar pois destroi todas as suas ilusões na hora.",
+    "recompensas": "Gota de sakura que pode ser entregue para Kuro para aumentar seu limite de ressureições para 3."
+  },
+
+  "3": {
+    "nome": "Genichiro Ashina",
+    "imagem": "imagens/bosses/genichiroDesenho.png",
+    "video": "https://www.youtube.com/watch?v=4_TfCUZNyH8",
+    "historia": "Genichiro nasceu de uma família de camponeses, em um ataque sua vila sua família foi morta e ele foi salvo por Isshin Ashina que veio a adota-lo como seu neto e cria-lo para ser um de seus melhores guerreiros, Genichiro é o único guerreiro conhecido a ser um aprendiz de Tomoe e carregar suas artes de batalha, Genichiro foi consumido pela vontade de se tornar imortal com o sangue do dragão e sequestrou Kuro para tentar realizar esse desejo.",
+    "luta": "A luta contra Genichiro é a luta da progressão do jogo que se você ainda não souber jogar bem vai fazer você aprender, com vários combos decoráveis e rápidos ele tem 3 fases uma sendo secreta, as primeiras duas fases são bem semelhantes, genichiro usa todos os tipos de ataques com uma grande variedade de maneiras, quando você derrota sua segunda barra de vida parece que você conseguiu derrota-lo, porém ele se levanta revelando que conseguiu o poder de ressureição e ativa a terceira fase de sua luta, nessa fase ele é mais rápido e consegue dar ataques de raio que podem ser contra-atacados porém são extremamente dificeis de refletir.",
+    "fraquezas": "Ele não possui fraquezas óbvias, apenas aprendendo sua luta e tentando decorar seus padrões é possível ter uma luta fácil, porém na terceira fase se você conseguir consistentemente fazer a reversão de raio toda vez que ele for fazer um ataque de raio é um bom metodo de vencer sua terceira fase.",
+    "recompensas": "Ninjutsu de fumaça sangrenta e acesso aos aposentos de Kuro."
+  },
+
+  "4": {
+    "nome": "Macacos Do Biombo",
+    "imagem": "imagens/bosses/macacosDesenho.png",
+    "video": "https://www.youtube.com/watch?v=g3cxOD5K4Xw",
+    "historia": "Os macacos do biombo são inspirados na lenda dos três macacos sábios, Kikazaru o surdo, Iwazaru o mudo e Mizaru o cego, porém no jogo temos um quarto macaco que é invisível, os macacos são controlados pela Cria do dragão no Templo Senpou no Monte Kongo.",
+    "luta": "Essa luta, diferente do resto, não é uma luta e sim uma caçado aos macacos do biombo que, por si só, cada um tem uma vantagem diferente e uma fraqueza, e diferentemente dos três macacos sábios que tem um sentido deficiente, esses macacos tem um sentido que são extremamente eficientes e deficientes no resto.",
+    "fraquezas": "Cada macaco tem sua fraqueza, o roxo possui uma incrível visão, porém não escuta bem, e, se for pego em uma área escura não tem defesas, o verde tem uma audição excelente e visão normal, mas se você tocar o sino do meio do mapa quando ele estiver ao lado dele, o macaco ficará desnorteado e exposto, o laranja tem visão e audição normais, mas quando te vê alerta os outros macacos, já o quarto macaco é invisível, mas faz muito barulho e deixa pegadas.",
+    "recompensas": "Ninjutsu marionete e te da acesso ao quarto da cria do dragão."
+  },
+
+  "5": {
+    "nome": "Primata Guardião",
+    "imagem": "imagens/bosses/primataDesenho.png",
+    "video": "https://www.youtube.com/watch?v=IIS-ZtyO1_Q",
+    "historia": "Um primata gigante que reside nas profundezas do Vale Submerso, protege a lotus do palácio, dizem que esta raça de primata gigante passa a vida toda procurando um parceiro para ficar junto para sempre, ele protege a lotus pois acha que ela é a sua parceira falecida, está amaldiçoado com a maldição da imortalidade, algo que Lobo não sabia antes de entrar em batalha com ele.",
+    "luta": "Sua luta tem 2 fases, uma delas sendo secreta, em sua primeira fase ele faz movimentos bestiais bem como um gorila gigante lutaria em uma batalha, com braçadas largas para os lados e arremessando fezes em Lobo, quando você arrancar a cabeça dele achará que venceu a batalha, porém depois de alguns segundos seu corpo ganha vida e pega sua cabeça na mão, mudando seu estilo de combate a agora usando a espada que estava fincada em sua cabeça, ele agora é controlado pela centopéia que o mantém vivo com a maldição da imortalidade e consegue dar gritos que amaldiçoam Lobo.",
+    "fraquezas": "Na primeira fase como o primata é do tipo bestial a ferramenta de prótese bombinhas shinobi são uma boa estrategia para desnortea-lo assim como a ferramenta duto flamejante, já na segunda fase é bom usar o item confete divino para dar mais dano vital e na postura já que ele se torna de tipo assombração, a ferramenta de prótese lança shinobi é muito útil nessa batalha quando ele fica desnorteado.",
+    "recompensas": "Ao derrota-lo ganha acesso ao item da história Lotus do Palácio e ganha o dedo fino, o item para criar a prótese de apito."
+  },
+
+  "6": {
+    "nome": "Primata Sem Cabeça",
+    "imagem": "imagens/bosses/semCabecaDesenho.png",
+    "video": "https://www.youtube.com/watch?v=EG2zOlCfV-4",
+    "historia": "Após ter derrotado o primata guardião no vale submerso, já que na história Lobo ainda não possuia a Lâmina mortal, Lobo não pôde encerrar a imortalidade do primata guardião, então, ele estará nas profundezas de ashina já em sua fase sem cabeça.",
+    "luta": "Essa luta contém duas fases, a primeira é exatamente igual a fase secreta da luta do primata guardião dando ataques com sua espada e as vezes gritos com sua cabeça decepada, dando dano de maldição em lobo, na sua segunda fase o primata sem cabeça chama a ajuda de outro primata guardião marrom com os ataques bestiais da primeira fase de sua luta com cabeça você terá que enfrentar os dois ao mesmo tempo (essa luta é um inferno).",
+    "fraquezas": "Na primeira fase dessa luta sua maior fraqueza é encantar sua arma com confetes divinos para dar mais dano e utilizar a ferramenta de prótese malcontente, um apito que pode atordoar inimigos tipo aparição, para a segunda fase é recomendado lidar com o macaco marrom primeiro, usando bombinhas shinobi para dar o máximo de dano a sua postura e finaliza-lo antes de lutar contra o macaco branco sem cabeça.",
+    "recompensas": "Ninjutsu de concessão e duas contas de oração."
+  },
+
+  "7": {
+    "nome": "Monja Corrompida Falsa",
+    "imagem": "imagens/bosses/monjafalsaDesenho.png",
+    "video": "https://www.youtube.com/watch?v=nM6JMyMY8Nw",
+    "historia": "A monja corrompida falsa é uma ilusão criada pela monja verdadeira para proteger a pedra aromática e a entrada para o palácio da nascente, ela é uma versão roxa e mais fraca da verdadeira monja.",
+    "luta": "Essa versão da monja possui apenas uma fase, mas, ainda sim é um boss extremamente difícil e exige reações rápidas e decorar seus padrões para vencer, ela possui uma lança com combos que podem várias sua quantidade de ataques então é sempre bom prestar atenção se ela vai parar de atacar ou continuar o combo pois ela pode mudar de ideia durante o combo, ela possui ataques rápidos impossíveis de bloquear portanto é necessário ter uma reação muito apurada para essa batalha.",
+    "fraquezas": "Como a monja falsa é uma ilusão Snap Seeds são uma ótima forma de dar dano a sua postura e ainda a sua vida, podem ser usadas no máximo três nessa batalha, punhados de cinzas também são uma ótima opção para desnortea-la e usar a ferramenta de prótese machado de lazulita é uma ótima forma de dar dano.",
+    "recompensas": "Habilidade da técnica de respiração Mibu e acesso ao templo da pedra aromática."
+  },
+
+  "8": {
+    "nome": "Emma, a Lâmina Gentil",
+    "imagem": "imagens/bosses/emmaDesenho.png",
+    "video": "https://youtu.be/0Qm-JEtv2aU?si=0Ir_O4l-ge794n0P",
+    "historia": "Emma é uma das suas principais aliadas durante a jornada de Lobo, ela foi treinada por Isshin com sua arte de espada e seus conhecimentos médicos foram ensinados de Dogen o criador da cabaça curativa, Emma ao longo de toda sua jornada apenas ajuda Sekiro, seja melhorando sua cabaça curativa ou ajudando em partes da história, porém, se Lobo escolher ajudar Coruja e trair Kuro ele terá de enfrenta-la para conseguir o final Shura, considerado por todos o final ruim do jogo onde Lobo mata todos seus aliados e vira um 'Shura' um demonio do ódio.",
+    "luta": "Como a luta de Emma é apenas o inicio para a luta contra Isshin para o final Shura ela possui apenas uma fase e sua luta e a de isshin são consideradas a mesma mesmo não lutando juntos, emma possui poucos ataques mas ela os executa de forma tão rápida e precisa que acaba se tornando um desafio mesmo tendo pouca variedade.",
+    "fraquezas": "Emma não possui grandes fraquezas, porém, uma boa forma de deixar sua luta mais fácil é sempre focar em acertar a última refletida de seu combo, pois isso deixa ela aberta para um bom contra-ataque, seu ataque de agarrão é impossível de refletir portanto é com correr quando ela começar a carrega-lo.",
+    "recompensas": "Essa luta não possui recompensas pois é apenas a primeira fase de outra luta."
+  },
+
+  "9": {
+    "nome": "Isshin Ashina (Shura)",
+    "imagem": "imagens/bosses/isshinShuraDesenho.png",
+    "video": "https://youtu.be/0Qm-JEtv2aU?si=ynyGg8tvy_-dVwzF&t=83",
+    "historia": "Isshin ashina é o líder do clã Ashina e professor de Emma, mesmo estando velho Isshin não perdeu sua técnica com a espada e é considerado um dos bosses mais dificeis que lobo já enfrentou, para enfrenta-lo nessa forma Lobo terá que escolher ajudar Coruja e trair Lorde Kuro, assim matando Emma e entrando em batalha com Isshin em sua forma mais velha.",
+    "luta": "Isshin possui ataques rápidos e punitivos, sempre que lobo tentar abrir distância com ele para se curar ele o punirá com um avanço de espada, sua primeira fase possui uma grande variedade de ataques, já sua segunda fase a arena vira um inferno literal, Isshin invoca seus poderes de fogo e usa o mesmo estilo de batalha da primeira fase porém todos seus ataques são complementados no final por explosões de fogo de todos os tipos.",
+    "fraquezas": "Sua melhor escolha para essa luta é usar a ferramenta de prótese shinobi guarda-chuva lilás da fênix para se defender de todo o fogo da arena na sua segunda fase, fora isso apenas ser bom pode te salvar.",
+    "recompensas": "Após derrotar Emma e Isshin (Shura) você obtém o final Shura e ganha uma arte de combate chamada 'Mente Una'."
+  },
+
+  "10": {
+    "nome": "Grande Shinobi Coruja",
+    "imagem": "imagens/bosses/corujaDesenho.png",
+    "video": "https://www.youtube.com/watch?v=K2FvUbrrL0k",
+    "historia": "Grande Shinobi Coruja, como é conhecido o pai de Lobo é um dos maiores Shinobis do universo de Sekiro, ele adotou Lobo quando criança e o ensinou a arte de ser um shinobi, após você conseguir os dois itens que Kuro pede para prosseguir na história Coruja invade o castelo de ashina, sendo movido pela mesma ambição de Genichiro, a imortalidade concedida pelo sangue do dragão, quando Lobo chega no topo do castela e encontra Coruja pode ter duas opções: Trair Kuro e pegar o final Shura(considerado o final ruim) ou se manter leal a Kuro e se opor ao seu pai, da qual iniciará uma batalha contra Coruja.",
+    "luta": "Coruja é conhecido pelo seu jeito trapaceiro de lutar, sempre utilizando ataques secretos como explosões de bombinhas e um orbe que deixa Lobo impossibilitado de se curar durante alguns segundos, Coruja tem uma técnica que apenas ele possui de todos os bosses do jogo, sempre que você tentar empalar ele com sua espada ele revidará executando Lobo na hora, ou seja, estocadas estão fora de questão nessa luta, na transição para sua segunda fase ele tenta enganar lobo fingindo estar incapacitado para pega-lo de surpresa com uma bomba de fumaça, sua segunda fase é igual a primeira com a diferença de alguns ataques, como um espirro de veneno e o uso de bombas de fumaça.",
+    "fraquezas": "Coruja não possui nenhuma grande fraqueza da qual possa ser tirada vantagem, porém a melhor estratégia para derrota-lo é apenas atacar e repelir repetidamente sem dar espaço para ele utilizar suas estratégias sujas.",
+    "recompensas": "Ramo aromático, um item história para um dos finais do jogo."
+  },
+
+  "11": {
+    "nome": "Monja Corrompida Verdadeira",
+    "imagem": "imagens/bosses/monjaVerdadeiraDesenho.png",
+    "video": "https://www.youtube.com/watch?v=pzifITTtVG8",
+    "historia": "Protetora da entrada do palácio da nascente, seu verdadeiro nome antes de ser corrompida era Sacerdotisa Yao, não se sabe ao certo como ela foi corrompida com a maldição da imortalidade, seja por ambição ou infortunio agora ela está amaldiçoada a proteger os portõe do palácio eternamente.",
+    "luta": "Sua luta é um grande pulo de dificuldade para as lutas anteriores, ela possui três fases, sua primeira possui os mesmo golpes da sua ilusão porém tem mais combos e eles são mais rápidos, sua segunda fase começa com ela invocando três fases de 3 ataques ilusórios e Lobo pode apenas se defender, sua luta é praticamente igual mas ela pode invocar mais dessa ilusões no meio da luta, sua terceira fase ela revela sua imortalidade perdendo sua cabeça e sendo substituida pela centopeia da maldição da imortalidade, nessa fase ela tem ataques de vômito que amaldiçoam Lobo e é mais rápida.",
+    "fraquezas": "Como a monja possui uma recuperação de postura extremamente rápida é melhor focar em primeira tirar a vitalidade dela para diminuir essa recuperação, quando ela entrar em sua segunda fase com suas ilusões no momento que ela parar de invoca-las ela aparece brevemente transparente no centro da arena, é possível pular de cima de um galho de árvore e executar sua segunda fase na hora sem precisar passar pela luta toda, na terceira fase ela vira um inimigo tipo assombração, então usar confeti divino para dar o máximo de dano por ataque é a melhor opção.",
+    "recompensas": "Acesso ao palácio da nascente e o quadro de contagem do dragão, esse item faz os mercantes venderem mais itens."
+  },
+
+  "12": {
+    "nome": "Dragão Divino",
+    "imagem": "imagens/bosses/dragaoDesenho.png",
+    "video": "https://www.youtube.com/watch?v=js1f-uS0Kok",
+    "historia": "O dragão divino vem do oeste e possívelmente é o parente original da linhagem do dragão de Lorde Kuro, para chegar onde ele está você deve chegar no topo do palácio da nascente e entrar no plano divino, ele é imortal e não tem um braço assim como Lobo, seus pequenos companheiros que Lobo enfrenta no inicio de sua batalha são uma manifestação física da praga do dragão, a doença que assola as terras de ashina e infecta mais pessoas quanto mais Lobo morre em sua jornada.",
+    "luta": "A luta começa com várias versões menores de dragões doentes, para passar dessa fase é apenas preciso matar todos os mini-dragões doentes e desviar dos ataque que vem do chão, depois de matar todos o dragão divino é revelado, essa luta consiste em desviar de suas lâminas de vento e usar seu gancho para subir em cima do pilar que estiver brilhando, em cima dele você será arremeçado ao ar e dominará um relâmpago, arremessando ele no dragão e dando dano, quando esvair sua postura ou vida ele cairá e você poderá roubar sua lágrima.",
+    "fraquezas": "Como essa luta é uma luta gimmick, o dragão em si não possui fraquezas já que a luta por si só não é tão difícil, mas na sua primeira fase é bom usar alguma prótese ou arte de combate que de bastante dano em área para limpar os mini-dragões mais rapidamente.",
+    "recompensas": "Lágrima do dragão divino."
+  },
+
+  "13": {
+    "nome": "Coruja (Pai)",
+    "imagem": "imagens/bosses/corujaPaiDesenho.png",
+    "video": "https://www.youtube.com/watch?v=mMOyPcJd8YI",
+    "historia": "Coruja é o pai adotivo de lobo, ele o treinou para ser um shinobi e o ensinou seu estilo de combate, essa versão de coruja é sua versão da memória da propriedade hirata, no dia que ele e sua gangue invadira a propriedade em busca do sangue do lorde kuro, o herdeiro divino do sangue do dragão, para alcançar a imortalidade.",
+    "luta": "Essa luta possui duas fases, sua primeira fase é igual sua luta no castelo de ashina, porém mais rápida e ele possui algumas variações de seus combos, sua segunda fase ele invoca uma coruja espiritual e consegue efetuar combos com ela.",
+    "fraquezas": "coruja não possui nenhuma fraqueza da qual lobo possa aproveitar para facilitar sua luta, decorar seus padrões e fazer um bom combate é a melhor maneira de derrota-lo.",
+    "recompensas": "flor aromática, um item de história usado para fazer um dos finais do jogo."
+  },
+
+  "14": {
+    "nome": "Demonio do Rancor",
+    "imagem": "imagens/bosses/demonioDesenho.png",
+    "video": "https://www.youtube.com/watch?v=pziT6HSZEcs",
+    "historia": "O demonio do rancor é uma manifestação de alguém que se tornou um Shura e foi consumido pelo seu ódio, essa pessoa sendo o Escultor, a pessoa que ajudou Lobo ao longo de sua jornada inteira o salvando no inicio do jogo e melhorando sua prótese ao longo de sua jornada.",
+    "luta": "Lutar contra o demonio do rancor é opcional e é o único boss do jogo que vai totalmente contra tudo que foi ensinado ao longo da jornada, Sekiro é um jogo que se baseia em um combate como uma dança onde você nunca pode ficar parado e sempre tem que fazer sua próxima ação 'Hesitação é derrota', essa luta vai contra essa crença do jogo, já que seus ataques não podem ser refletidos e você passa a maioria da luta desviando ao invés de batendo, ele possui três fases, praticamente identicas, a única diferença é que na segunda fase ele ganha uma variação de ataque no final de sua corrida e a terceira ele ganha um novo combo.",
+    "fraquezas": "Como ele é um demonio e um inimigo do tipo assombração, usar confeti divino e a ferramenta de prótese malcontente é uma ótima opção para dar dano e desnortea-lo com o apito, sua vida e sua vitalidade são exatamente a mesma, então para derrotar cada barra de vita você precisará esgotar sua vitalidade de um jeito ou de outro.",
+    "recompensas": "Duas lapis-lazulis."
+  },
+
+  "15": {
+    "nome": "Genichiro, Caminho de Tomoe",
+    "imagem": "imagens/bosses/genichiroDesenho.png",
+    "video": "https://www.youtube.com/watch?v=3jtopDBIHXY",
+    "historia": "Após sua derrota em cima do castelo de ashina, genichiro recuou e se recuperou, conseguindo encontrar no caminho a Lâmina mortal preta, conhecida pelo seu poder de conseguir abrir os portões do inferno e reviver um ser morto, poder que a lâmina mortal carmesim de Lobo não era capaz, no final de sua luta quando genichiro é derrotado ele corta seu pescoço com a lâmina mortal preta e invoca Isshin Ashina em sua forma mais nova, quando ele era um general dos exércitos de ashina e suas habilidades estavam no ápice.",
+    "luta": "A luta de genichiro é apenas uma pré-luta para a luta final contra Isshin Ashina, a divindade da espada, portanto seus ataques são identicos ao de sua luta no castelo de ashina na terceira fase com algumas diferenças, no começo da luta ele utiliza a técnica Saque mortal da lâmina mortal, e pode repetir isso ao longo da batalha, esse ataque da uma quantidade consideravel de dano, portanto é bom evitar.",
+    "fraquezas": "No início da luta genichiro usa a arte de combate 'saque mortal', e fica alguns segundos carregando ela, nesses segundos lobo pode ir para trás de genichiro e usar seu próprio 'saque mortal' dando muito dano logo no começo da batalha, o resto da batalha é igual sua terceira fase no castelo de ashina, então é bom ficar atendo com seus combos e repelir seus ataques de raio corretamente para dar uma grande quantidade de dano a postura e vitalidade.",
+    "recompensas": "Como essa é uma pré-luta para outra luta principal, você não ganha nada derrotando genichiro nessa luta, mas ela é necessária para lutar contra Isshin."
+  },
+
+  "16": {
+    "nome": "Isshin Ashina, Divindade da Espada",
+    "imagem": "imagens/bosses/isshinDesenho.png",
+    "video": "https://youtu.be/3jtopDBIHXY?si=yGshkxVU_YD_tC4h&t=84",
+    "historia": "Isshin Ashina foi um general do exército de ashina e o melhor guerreiro do país, utilizando uma espada uma lança e uma pistola isshin derrotou inumeros guerreiros em combate.",
+    "luta": "Sua luta, sendo a luta final do jogo é a luta mais difícil da jornada do modo história de sekiro, ele possui três fases, uma mais difícil que a outra, sua primeira ele utiliza apenas a espada, dando combos surpresa e ataques com investidas sempre tentando pegar Lobo desprevinido, sempre que é possível punir Lobo pegando distância para curar, sua segunda fase começa com Isshin arrancando uma lança do chão e dando um ataque em área, essa fase ele muda completamente seu moveset e ele consegue dar ataques a distância com sua pistola, na terceira fase ele fica extremamente rápido e consegue dar ataques de raio como genichiro, isso acaba dando desvantagem para ele na luta pois se Lobo conseguir consistentemente refletir os raios isso acaba dando uma vantagem extrema de dano para lobo.",
+    "fraquezas": "Essa é um luta muito bem coreografada e isshin não possui nenhuma fraqueza em suas duas primeiras fazes, a melhor estratégia é decorar seus padrões aprendendo a sua luta, na terceira fase por outro lado, ele fica extremamente rápido e seus ataque ficam muito difíceis de desviar, porém ele ganha ataques de raio que ele adora usar, e se Lobo focar em sempre desviar devolta os ataques de raio dará um enorme dano a postura e vitalidade de isshin, tendo uma vantagem enorme.",
+    "recompensas": "Arte de combate lampejo do dragão e o final do jogo."
+  },
+
+  "17": {
+    "nome": "Pai Interior",
+    "imagem": "imagens/bosses/corujaPaiDesenho.png",
+    "video": "https://www.youtube.com/watch?v=mMOyPcJd8YI",
+    "historia": "Essa versão de Coruja é uma versão interior desse shinobi no momento de sua vida que suas habilidades estavam em seu ápice, essa versão só pode ser encontrada no final de um desafio de força.",
+    "luta": "Essa luta é uma versão mais forte da luta de 'Coruja(Pai)', nessa luta coruja pode usar o poder da ferramenta de prótese corvo da névoa e seus ataques possuem algumas variações.",
+    "fraquezas": "Nenhuma versão inteiror possui fraquezas, elas são a versão mais forte dos guerreiros mais fortes que Lobo enfrentou em sua jornada.",
+    "recompensas": "Memória de outro: Shura, memórias de outros são apenas cosméticos que Lobo pode usar para ter uma roupa diferente e não afetam nada na jogabilidade."
+  },
+
+  "18": {
+    "nome": "Genichiro Interior",
+    "imagem": "imagens/bosses/genichiroDesenho.png",
+    "video": "https://www.youtube.com/watch?v=4_TfCUZNyH8",
+    "historia": "Essa versão de Genichiro é uma versão interior desse guerreiro no momento de sua vida que suas habilidades estavam em seu ápice, essa versão só pode ser encontrada no final de um desafio de força.",
+    "luta": "Essa luta é uma versão mais forte da luta de 'Genichiro Ashina', nessa luta Genichiro consegue usar a habilidade 'Dança de Sakura' um arte de combate extremamente forte que se pegar Lobo de surpresa pode mata-lo na hora, em sua terceira fase sempre que lobo refletir um raio de vola em genichiro ele reflitirá de volta em lobo.",
+    "fraquezas": "Nenhuma versão inteiror possui fraquezas, elas são a versão mais forte dos guerreiros mais fortes que Lobo enfrentou em sua jornada.",
+    "recompensas": "Arte de combate 'Dança de Sakura'."
+  },
+
+  "19": {
+    "nome": "Isshin Interior",
+    "imagem": "imagens/bosses/isshinDesenho.png",
+    "video": "https://youtu.be/3jtopDBIHXY?si=yGshkxVU_YD_tC4h&t=84",
+    "historia": "Essa versão de Isshin é uma versão interior desse general no momento de sua vida que suas habilidades estavam em seu ápice, essa versão só pode ser encontrada no final de um desafio de força.",
+    "luta": "Essa luta é uma versão mais forte da luta de 'Isshin Ashina, Divindade da Espada', essa luta começa com um ataque com sua lâmina mortal que cruza quase a arena inteira, todas suas fases são mais rápidas e ataques com a lâmina mortal são adicionados ao seu moveset.",
+    "fraquezas": "Nenhuma versão inteiror possui fraquezas, elas são a versão mais forte dos guerreiros mais fortes que Lobo enfrentou em sua jornada.",
+    "recompensas": "Memória de outro: Tengu, memórias de outros são apenas cosméticos que Lobo pode usar para ter uma roupa diferente e não afetam nada na jogabilidade."
+  }
+}

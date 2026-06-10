@@ -1,0 +1,67 @@
+{
+   "1": {
+        "nome": "Artes Shinobi",
+        "imagem": "imagens/arvores/shinobiArvore.png",
+        "show1": "",
+        "show2": "style='display:none'",
+        "show3": "style='display:none'",
+        "show4": "style='display:none'",
+        "show5": "style='display:none'",
+        "show6": "style='display:none'"
+    },
+
+    "2": {
+        "nome": "Artes Prostética", 
+        "imagem": "imagens/arvores/proteseArvore.png",
+        "show1": "style='display:none'",
+        "show2": "",
+        "show3": "style='display:none'",
+        "show4": "style='display:none'",
+        "show5": "style='display:none'",
+        "show6": "style='display:none'"
+    },
+
+    "3": {
+        "nome": "Artes Ashina", 
+        "imagem": "imagens/arvores/ashinaArvore.png",
+        "show1": "style='display:none'",
+        "show2": "style='display:none'",
+        "show3": "",
+        "show4": "style='display:none'",
+        "show5": "style='display:none'",
+        "show6": "style='display:none'"
+    },
+
+    "4": {
+        "nome": "Artes do Templo",
+        "imagem": "imagens/arvores/temploArvore.png",
+        "show1": "style='display:none'",
+        "show2": "style='display:none'",
+        "show3": "style='display:none'",
+        "show4": "",
+        "show5": "style='display:none'",
+        "show6": "style='display:none'"
+    },
+
+    "5": {
+        "nome": "Técnicas Mushin",
+        "imagem": "imagens/arvores/mushinArvore.png",
+        "show1": "style='display:none'",
+        "show2": "style='display:none'",
+        "show3": "style='display:none'",
+        "show4": "style='display:none'",
+        "show5": "",
+        "show6": "style='display:none'"
+    },
+
+    "6": {
+        "nome": "Habilidades Extras",
+        "imagem": "imagens/arvores/extraArvore.png",
+        "show1": "style='display:none'",
+        "show2": "style='display:none'",
+        "show3": "style='display:none'",
+        "show4": "style='display:none'",
+        "show5": "style='display:none'",
+        "show6": ""
+    }
+}

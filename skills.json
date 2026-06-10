@@ -1,0 +1,380 @@
+{
+    "1": {
+        "nome": "Corte Redemoínho",
+        "imagem": "imagens/habilidades/corteRedemoinho.png",
+        "custo": "Custo: 1",
+        "descricao":"Ataque giratório que pode acertar vários inimigos de uma vez. O corte aliado à força do giro pode atingir múltiplos oponentes e causar dano mesmo ao ser defendido. Quando cercado, use essa técnica shinobi para abrir caminho para a vitória."
+    },
+
+    "2": {
+        "nome": "Repelir Aéreo",
+        "imagem": "imagens/habilidades/repelirAereo.png",
+        "custo": "Custo: 1",
+        "descricao": "Permite defender ou repelir ataques inimigos no ar. Armas de fogo e outras armas com projéteis causam dano adicionaç em alvos aéreos, e esta técnica serve para prevenir esse dano. Um shinobi não é derrubado com tanta facilidade."
+    },
+
+    "3": {
+        "nome": "Artes de Combate Aéreas",
+        "imagem": "imagens/habilidades/artesDeCombateAereas.png",
+        "custo": "Custo: 3",
+        "descricao": "Permite executar artes de combate enquanto estiver no ar. Permite usar artes de combate após pular para perto de um inimigo, ou imediatamente após saltar sobre um ataque amplo."
+    },
+
+    "4": {
+        "nome": "Impulso Sombrio",
+        "imagem": "imagens/habilidades/impulsoSombrio.png",
+        "custo": "Custo: 6",
+        "descricao": "Técnica secreta do estilo shinobi criada pelo grande shinobi. Faça uma poderosa investida de longo alcance e então use o oponente empalado como plataforma para realizar um salto. Seja como uma coruja na caça e suba aos céus após perfurar sua presa. Brasões espirituais são consumidos ao saltar."
+    },
+
+    "5": {
+        "nome": "Carma Shinobi: Corpo",
+        "imagem": "imagens/habilidades/carmaShinobiCorpo.png",
+        "custo": "Custo: 2",
+        "descricao": "Aumenta o número máximo de brasões espirituais carregados. Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados por muitos brasões. O shinobi que muito mata deve pagar por esses pecados com o seu corpo."
+    },
+
+    "6": {
+        "nome": "Carma shinobi: Mente",
+        "imagem": "imagens/habilidades/carmaShinobiMente.png",
+        "custo": "Custo: 3",
+        "descricao": "Aumenta o número máximo de brasões espirituais carregados. Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados por muitos brasões. O shinobi que muito mata deve pagar por esses pecados com a sua mente."
+    },
+
+    "7": {
+        "nome": "Sopro de Vida: Luz",
+        "imagem": "imagens/habilidades/soproDeVidaLuz.png",
+        "custo": "Custo: 5",
+        "descricao": "Recupera vitalidade após um golpe mortal. Golpes mortais dão ao shinobi uma chance de respirar. O shinobi consegue acalmar o corpo e a mente através da respiração, mesmo durante uma execução. Isso possibilita execuções contínuas, sem intervalos."
+    },
+
+    "8": {
+        "nome": "Contra-Ataque Mikiri",
+        "imagem": "imagens/habilidades/contraAtaqueMikiri.png",
+        "custo": "Custo: 2",
+        "descricao": "Permite combater investidas de oponentes pisando na arma do inimigo, causando um dano considerável à postura. Perceber a velocidade de uma investida é quase impossível, mas não para a visão aguçada de um shinobi."
+    },
+
+    "9": {
+        "nome": "Corrida e Deslizamento",
+        "imagem": "imagens/habilidades/corridaEDeslizamento.png",
+        "custo": "Custo: 1",
+        "descricao": "Permite deslizar para a posição agachada enquanto se corre. Corra por uma área e deslize para dentro de um abrigo ou outro lugar oculto. A manobra engana bem os olhos inimigos."
+    },
+
+    "10": {
+        "nome": "Olhos de Shinobi",
+        "imagem": "imagens/habilidades/olhosDeShinobi.png",
+        "custo": "Custo: 3",
+        "descricao": "Aumenta o dano causado à postura após um contra-ataque mikiri. Os olhos de um shinobi seguem a lâmina prevendo seus movimentos. Manter a compostura mesmo temendo o gume afiado é a chave da vitória."
+    },
+
+    "11": {
+        "nome": "Ocultar Presença",
+        "imagem": "imagens/habilidades/ocultarPresenca.png",
+        "custo": "Custo: 2",
+        "descricao": "Reduz a capacidade de um inimigo detectar aqueles em estado de furtividade. Anular a própria presença é o que define um shinobi."
+    },
+
+    "12": {
+        "nome": "Suprimir Som",
+        "imagem": "imagens/habilidades/suprimirSom.png",
+        "custo": "Custo: 3",
+        "descricao": "Suprime ruídos de movimentação ao inibir a capacidade de um inimigo ouvi-los. Mover-se em silêncio é parte daquilo que define um shinobi."
+    },
+
+    "13": {
+        "nome": "Salto",
+        "imagem": "imagens/habilidades/salto.png",
+        "custo": "Custo: 2",
+        "descricao": "Permite saltar por cima e para trás de inimigos com a postura quebrada. Essa técnica de artes marciais permito o uso de golpes mortais pelas costas durante uma batalha, mesmo sem usar furtividade."
+    },
+
+    "14": {
+        "nome": "Corte Perseguidor",
+        "imagem": "imagens/habilidades/cortePerseguidor.png",
+        "custo": "Custo: 1",
+        "descricao": "Permite realizar um corte com a espada avançando-se para frente após o uso de certas ferramentas prostéticas, o que possibilita se aproximar dos inimigos instantaneamente. Ferramentas prostéticas aplicáveis: Shuriken anexada, Bombinha shinobi, Lança anexada."
+    },
+
+    "15": {
+        "nome": "Presa e Lâmina",
+        "imagem": "imagens/habilidades/presaELamina.png",
+        "custo": "Custo: 2",
+        "descricao": "Após o uso de certas ferramentas prostéticas, esse movimento permite atacar com a ferramenta e a espada simultaneamente, ou realizar um ataque subsequente com a ferramenta. Ferramentas prostéticas aplicáveis: Machado anexado, Lança anexada, Corvo da Névoa."
+    },
+
+    "16": {
+        "nome": "Força Projetada",
+        "imagem": "imagens/habilidades/forcaProjetada.png",
+        "custo": "Custo: 1",
+        "descricao": "Após o uso de certa ferramenta prostética, permite transferir seu poder para a espada e liberá-lo para a frente. O ataque específico muda conforme a ferramenta usada. Ferramentas prostéticas aplicáveis: Guarda-chuva anexado, Apito de dedo."
+    },
+
+    "17": {
+        "nome": "Força Vital",
+        "imagem": "imagens/habilidades/forcaVital.png",
+        "custo": "Custo: 4",
+        "descricao": "Permite realizar um ataque subsequente com certas ferramentas que imbui a espada com o efeito da ferramenta. O Escultor deixou para trás a prótese shinobi após desenvolver essa técnica. Ele havia ido longe demais, matado demais. As chamas do rancor haviam começado a se manifestar... Ferramentas prostéticas aplicáveis: Duto flamejante, Abdução divina."
+    },
+
+    "18": {
+        "nome": "Ferramenta Prostética Aérea",
+        "imagem": "imagens/habilidades/ferramentaProsteticaAerea.png",
+        "custo": "Custo: 3",
+        "descricao": "Permite o uso de ferramentas prostéticas no ar. A prótese shinobi é pesada, porque é feita de ferro e engrenagens. Apesar disso, ela pode ser usada no ar graças a técnicas do seu criador, Dogen, e ao treinamento do seu dono."
+    },
+
+    "19": {
+        "nome": "Carma do Escultor: Cicatrizes",
+        "imagem": "imagens/habilidades/carmaDoEscultorCicatrizes.png",
+        "custo": "Custo: 3",
+        "descricao": "Aumenta o número máximo de brasões espirituais carregados. Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados por muitos brasões. Os pequenos cortes e cicatrizes da prótese são provas das inúmeras mortes que ela causou."
+    },
+
+    "20": {
+        "nome": "Carma do Escultor: Sangue",
+        "imagem": "imagens/habilidades/carmaDoEscultorSangue.png",
+        "custo": "Custo: 2",
+        "descricao": "Aumenta o número máximo de brasões espirituais carregados. Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados por muitos brasões. O sangue derramado na prótese se transforma em ferrugem permanente, uma prova do fardo do usuário."
+    },
+
+    "21": {
+        "nome": "Ataque Com Gancho",
+        "imagem": "imagens/habilidades/ataqueComGancho.png",
+        "custo": "Custo: 1",
+        "descricao": "Usa o Gancho para se lançar sobre o inimigo para um ataque de espada com rolagem. A prótese shinobi combina movimentação e ataque. Nenhum movimento é desperdiçado."
+    },
+
+    "22": {
+        "nome": "Corte Noitibó",
+        "imagem": "imagens/habilidades/corteNoitibo.png",
+        "custo": "Custo: 2",
+        "descricao": "Um salto giratório ofensivo que possibilita se aproximar ou se afastar de oponentes rapidamente. Técnica do clã Noitibó. Os noitibós usam o peso de suas shurikens para adicionar força ao golpe. A prótese shinobi é feita de aço pesado, e pode ser usada de forma parecida. LB + RB: Corte Noitibó."
+    },
+
+    "23": {
+        "nome": "Corte Noitibó Reverso",
+        "imagem": "imagens/habilidades/corteNoitiboReverso.png",
+        "custo": "Custo: 3",
+        "descricao": "Realiza um salto giratório ofensivo que possibilita se aproximar ou se afastar de oponentes rapidamente. Essa técnica permite decidir em qual direção girar ao usar o Corte Notíbo. Utilizar ambas as direções torna a habilidade tanto ofensiva como defensiva."
+    },
+
+    "24": {
+        "nome": "Remédio da Emma: Potência",
+        "imagem": "imagens/habilidades/remedioDaEmmaPotencia.png",
+        "custo": "Custo: 4",
+        "descricao": "Aumenta o efeito de cura dos itens. Emma ensinou essa técnica ao Escultor há muito tempo. Memorizar o gosto melhora seus efeitos. Contudo, saber a técnica não deixa o gosto do remédio melhor."
+    },
+
+    "25": {
+        "nome": "Remédio da Emma: Aroma",
+        "imagem": "imagens/habilidades/remedioDaEmmaAroma.png",
+        "custo": "Custo: 5",
+        "descricao": "Aumenta o efeito de cura dos itens. Emma ensinou essa técnica ao Escultor há muito tempo. Sentir o aroma do remédio e memorizá-lo melhora seu efeito. Mas ele continuará cheirando tão mal quanto."
+    },
+
+    "26": {
+        "nome": "Ichimonji",
+        "imagem": "imagens/habilidades/ichimonji.png",
+        "custo": "Custo: 2",
+        "descricao": "Ichimonji realiza um golpe de espada sobre a cabeça. Causa dano à postura e recupera sua própria postura com um passo firme para frente. O domínio dessa técnica é o cerne da força do estilo Ashina. Ao ser dominada, ela pode ser melhorada."
+    },
+
+    "27": {
+        "nome": "Carpa Descendente",
+        "imagem": "imagens/habilidades/carpaDescendente.png",
+        "custo": "Custo: 1",
+        "descricao": "Por alguns segundos após repelir um golpe, aumenta o dano à postura do inimigo. O estilo Ashina está arraigado ao fluxo da nascente. Acredita-se que o ato de repelir uma lâmina é comparável à decisão da carpa por uma cascata."
+    },
+
+    "28": {
+        "nome": "Ichimonji Duplo",
+        "imagem": "imagens/habilidades/ichimonjiDuplo.png",
+        "custo": "Custo: 3",
+        "descricao": "Adiciona um golpe de espada após o Ichimonji. Causa dano à postura e recupera sua postura com um passo firme para frente. O ataque subsequente previne contra-ataques. O Ichimonji de Ashina é aperfeiçoado com esse golpe."
+    },
+
+    "29": {
+        "nome": "Cruz de Ashina",
+        "imagem": "imagens/habilidades/cruzDeAshina.png",
+        "custo": "Custo: 5",
+        "descricao": "Um ataque com saque veloz. É a técnica secreta do estilo Ashina. Seu uso custa brasões espirituais. Manter uma postura firme permite contra-atacar num piscar de olhos. Faz um corte em forma de cruz no momento em que a espada é sacada. Sua intensidade é tal que pode até cortar o braço de um Shura."
+    },
+
+    "30": {
+        "nome": "Carpa Ascendente",
+        "imagem": "imagens/habilidades/carpaAscendente.png",
+        "custo": "Custo: 2",
+        "descricao": "Aumenta o dano causado à postura após repelir um ataque. O estilo Ashina está arraigado ao fluxo das águas da nascente. Acredita-se que o ato de repelir uma lâmina é comparável à ascensão da carpa por uma cascata."
+    },
+
+    "31": {
+        "nome": "Água Fluente",
+        "imagem": "imagens/habilidades/aguaFluente.png",
+        "custo": "Custo: 3",
+        "descricao": "Reduz a quantidade de dano à postura quando atacado por inimigos com espada. Como os rios, a força não deve ser combatida com mais força, mas deve ser redirecionada como o curso da água."
+    },
+
+    "32": {
+        "nome": "Sopro de Natureza: Luz",
+        "imagem": "imagens/habilidades/soproDeNaturezaLuz.png",
+        "custo": "Custo: 2",
+        "descricao": "Recupera a postura após um golpe mortal. O estilo Ashina também tem técnicas para lutas em que o inimigo está em número maior. Após uma execução, é preciso expirar para expelir o remorso e reafirmar seu centro para recuperar a postura."
+    },
+
+    "33": {
+        "nome": "Golpes Hieráticos",
+        "imagem": "imagens/habilidades/golpesHieraticos.png",
+        "custo": "Custo: 2",
+        "descricao": "Usando golpes sucessivos de cotovelo e braço, lance ataques rápidos que causam dano e previnem contra-ataques. Os golpes combinam artes marciais e oração. 'Sem força, não é possível derrotar os inimigos de Buda.'"
+    },
+
+    "34": {
+        "nome": "Golpes Hieráticos: Exorcismo",
+        "imagem": "imagens/habilidades/golpesHieraticosExorcismo.png",
+        "custo": "Custo: 3",
+        "descricao": "Adiciona um ataque finalizador aos Golpes Hieráticos. Realize ataques rápidos, causando dano e prevenindo contra-ataques. Depois, use um golpe mais pesado para concluir. Os monges Senpou usavam essa técnica para expurgar desejos mundanos. Contundo..."
+    },
+
+    "35": {
+        "nome": "Devoção",
+        "imagem": "imagens/habilidades/devocao.png",
+        "custo": "Custo: 3",
+        "descricao": "Aumenta o tempo de efeito de um confeito budista ao ser usado. Aqueles que demonstram devoção são agraciados com a proteção dos deuses por um período estendido."
+    },
+
+    "36": {
+        "nome": "Virtude",
+        "imagem": "imagens/habilidades/virtude.png",
+        "custo": "Custo: 3",
+        "descricao": "Aumenta a quantidade de sens obtidos e a frequência de itens liberados por inimigos. Conforme o sumo sacerdote do Templo Senpou... 'Deve-se focar em feitos virtuosos e renunciar o acúmulo de riquezas.'"
+    },
+
+    "37": {
+        "nome": "Chute Alto Senpo",
+        "imagem": "imagens/habilidades/chuteAltoSenpo.png",
+        "custo": "Custo: 3",
+        "descricao": "Um contra-ataque útil contra ataques amplos e aéreos, seguido de uma combinação de chutes. Uma técnica refinada pelos reclusos de Senpou. O domínio do chute alto prova que a iluminação foi alcançada."
+    },
+
+    "38": {
+        "nome": "Monge Elevado",
+        "imagem": "imagens/habilidades/mongeElevado.png",
+        "custo": "Custo: 4",
+        "descricao": "A técnica secreta do estilo Senpo, adiciona cortes de espada e chutes adicionais ao Chute Alto Senpo. A técnica não tem forma e os ataques variam de pessoa a pessoa. Para o Lobo, nada mais natural do que depender da Kusabimaru para realizá-la."
+    },
+
+    "39": {
+        "nome": "Virtude Irrefutável",
+        "imagem": "imagens/habilidades/virtudeIrrefutavel.png",
+        "custo": "Custo: 4",
+        "descricao": "Aumenta a quantidade de sens obtidos e a frequência de itens liberados pelos inimigos. Conforme o sumo sacerdote do Templo Senpo... 'Deve-se focar em feitos virtuosos e renunciar o acúmulo de riquezas.'"
+    },
+
+    "40": {
+        "nome": "Queda Sombria",
+        "imagem": "imagens/habilidades/quedaSombria.png",
+        "custo": "Custo: 6",
+        "descricao": "Uma evolução do Impulso Sombrio, esta é uma técnica secreta do estilo Ashina Mushin. Após saltar com o Impulso Sombrio, faça um ataque giratório de espada ao cair. Perfure, voe e mergulhe. Utilizar o inimigo para saltar custa brasões espirituais."
+    },
+
+    "41": {
+        "nome": "Passagem de Nuvens Espirais",
+        "imagem": "imagens/habilidades/passagemDeNuvensEspirais.png",
+        "custo": "Custo: 9",
+        "descricao": "Uma técnica de espada que libera poderosas ondas de vento. Seu uso custa brasões espirituais. O nome advém de um grande turbilhão de nuvens que se forma perto da nascente, a Espiral da Nascente. Tomoe via seu jovem mestre fitando saudosamente as nuvens espirais. Essa imagem era tudo para ela."
+    },
+
+    "42": {
+        "nome": "Saque Mortal Fortalecido",
+        "imagem": "imagens/habilidades/saqueMortalFortalecido.png",
+        "custo": "Custo: 5",
+        "descricao": "Uma técnica que usa a Lâmina Mortal. Seu uso custa brasões espirituais. Ao se concentrar e sacar a Lâmina Mortal, é possível conjurar poder extra, resultando em um corte com mais alcance e potência. Saque a espada e libere sua devastação."
+    },
+
+    "43": {
+        "nome": "Remedio Shinobi Nivel 1",
+        "imagem": "imagens/habilidades/remedioShinobiNivel1.png",
+        "custo": "Como obter: Derrotar o Ogro Acorrentado nas Redondezas de Ashina.",
+        "descricao": "Habilidade passiva que aumenta o efeito de cura dos itens. Conhecimento medicinal é vital para a sobrevivência de um shinobi. Ferir-se em batalha é inevitável. A única maneira de aprender tal técnica é ser gravemente ferido várias e várias vezes por oponentes valorosos."
+    },
+
+    "44": {
+        "nome": "Remedio Shinobi Nivel 2",
+        "imagem": "imagens/habilidades/remedioShinobiNivel2.png",
+        "custo": "Como obter: Derrotar o Touro Flamejante.",
+        "descricao": "Habilidade passiva que aumenta o efeito de cura dos itens. Às vezes, o shinobi pode sobreviver ao que seria morte certa para um guerreiro menos hábil. Para isso, conhecimento medicinal é vital. A única maneira de aprender tal técnica é ser gravemente ferido várias vezes por oponentes valorosos."
+    },
+
+    "45": {
+        "nome": "Remedio Shinobi Nivel 3",
+        "imagem": "imagens/habilidades/remedioShinobiNivel3.png",
+        "custo": "Como obter: Derrotar o Ogro Acorrentado no Castelo de Ashina.",
+        "descricao": "Habilidade passiva que aumenta o efeito de cura dos itens. Um shinobi luta como um lobo solitário, sem a ajuda de outrem. Assim, conhecimento medicinal é vital. A única maneira de aprender tal técnica é ser gravemente ferido várias e várias vezes por oponentes valorosos."
+    },
+
+    "46": {
+        "nome": "Técnica de Respiração Mibu",
+        "imagem": "imagens/habilidades/tecnicaDeRespiracaoMibu.png",
+        "custo": "Como obter: Derrotar a Monja Corrompida Falsa.",
+        "descricao": "Método secreto conhecido como 'Técnica de respiração Mibu'. Habilidade passiva que permite mergulhar e respirar debaixo d’água. Desenvolvida pelo fundador do vilarejo de Mibu. 'Quem quiser se juntar ao cortejo deve dominar a respiração Mibu. Sem ela, não se pode encontrar o Dragão Divino.'"
+    },
+
+    "47": {
+        "nome": "Passagem Flutuante",
+        "imagem": "imagens/habilidades/passagemFlutuante.png",
+        "custo": "Como obter: Comprar do Nobre do Pote Harunaga.",
+        "descricao": "Arte de combate que lança uma série de ataques que confundem o inimigo com seus movimentos de coreografia. Apesar de ser uma arte de Ashina, é considerada herege, pois foi ensinada por uma forasteira. Sua mestra atravessou a Passagem Flutuante e desceu até Ashina. Seu nome era Tomoe."
+    },
+
+    "48": {
+        "nome": "Lampejo do Dragão",
+        "imagem": "imagens/habilidades/lampejoDoDragao.png",
+        "custo": "Como obter: Derrotar Isshin, Divindade da Espada.",
+        "descricao": "Arte de combate que realiza um corte em alta velocidade a partir da postura de espada embainhada. Carregue para lançar ondas de vento. Seu uso custa brasões espirituais. Quando jovem, Isshin era um demônio com a espada, passando seus dias em busca de combates mortais. Ele costumava ponderar sobre como executar seus ataques, mas sua lâmina sempre se movia primeiro."
+    },
+
+    "49": {
+        "nome": "Sopro de Vida: Sombra",
+        "imagem": "imagens/habilidades/soproDeVidaSombra.png",
+        "custo": "Como obter: Derrotar O'rin da Água.",
+        "descricao": "Habilidade passiva que recupera vitalidade após um golpe mortal bem-sucedido. Golpes mortais dão aos shinobi uma oportunidade de respirar. Batalhar com oponentes poderosos aumenta ainda mais esse momento de alívio."
+    },
+
+    "50": {
+        "nome": "Sopro de Natureza: Sombra",
+        "imagem": "imagens/habilidades/soproDeNaturezaSombra.png",
+        "custo": "Como obter: Derrotar o Guerreiro de Armadura.",
+        "descricao": "Habilidade passiva que recupera a postura após um golpe mortal bem-sucedido. Um shinobi deve estar preparado para lutar contra inimigos em maior número. Após matar um inimigo, é preciso expirar para expulsar o remorso, reafirmar seu centro e recuperar a postura. Enfrentar oponentes mais fortes aumenta mais esse momento de alívio."
+    },
+
+    "51": {
+        "nome": "Carma de Monstro",
+        "imagem": "imagens/habilidades/carmaDeMonstro.png",
+        "custo": "Como obter: Derrotar O Touro de Sakura do Palácio.",
+        "descricao": "Habilidade passiva que aumenta o número máximo de brasões espirituais que podem ser carregados. Brasões são remorsos. Os pesarosos de suas ações vis são assombrados por muitos brasões. Esse monstro deve ter sido incumbido com o carma de um homem. Herdar o destino dos que mataram também faz parte de ser um shinobi."
+    },
+
+    "52": {
+        "nome": "Golpe Mortal Antiaéreo",
+        "imagem": "imagens/habilidades/golpeMortalAntiaereo.png",
+        "custo": "Como obter: Comprar do Chapéu Negro Texugo.",
+        "descricao": "Arte marcial shinobi feita para deter qualquer inimigo saltando alto. Permite explorar a vulnerabilidade de um inimigo no ar pulando em sua direção e realizando um golpe mortal repentino. A habilidade perfeita para um shinobi que queira obter vantagem sobre inimigos no ar."
+    },
+
+    "53": {
+        "nome": "Mente Una",
+        "imagem": "imagens/habilidades/menteUna.png",
+        "custo": "Como obter: Derrotar Isshin Ashina (Shura).",
+        "descricao": "Arte de combate que desfere uma tempestade de ataques a partir da posição de espada embainhada. É tão rápido que a lâmina fica invisível. Custa brasões espirituais para usar. Deve-se focar sua alma no desembainhar da lâmina e nada mais, através disso, a velocidade dos ataques será sobrenatural. Somente alguém tão talentoso quanto Isshin seria capaz de executá-la."
+    },
+
+    "54": {
+        "nome": "Dança de Sakura",
+        "imagem": "imagens/habilidades/dancaDeSakura.png",
+        "custo": "Como obter: Derrotar Genichiro Interior.",
+        "descricao": "Arte de combate que cria impulso em uma série de cortes e saltos que pode ser transacionada em técnicas aéreas com a prótese. Custa Brasões espirituais para usar. Uma arte secreta do Caminho de Tomoe, que é realizada por ela em homenagem a seu mestre. As flores de cerejeira cairão em breve. Se você não pode voltar para casa, pelo menos permita que essa dança lhe console."
+    }
+    
+}
